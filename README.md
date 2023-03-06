@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DelanoRmdhn
 - 👀 I’m interested in Website and Mobile Development  
-- 🌱 I’m currently learning HTML & CSS 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript and How Github Works 
 - 📫 Find My Instagram account @delanormdhn
 
 <!---
